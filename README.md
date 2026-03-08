@@ -1,4 +1,4 @@
-# radar-detection-system
+# 📡radar-detection-system
 A basic radar detection system that utilises Arduino UNO, ultrasonic sensor, servo motor, LED's and an active buzzer.
 # Arduino Radar System
 
@@ -12,7 +12,7 @@ This project demonstrates the integration of **sensor data acquisition, actuator
 
 ---
 
-## System Features
+## 📦System Features
 
 - Environment scanning using a rotating ultrasonic sensor
 - Distance measurement using time-of-flight principles
@@ -24,7 +24,7 @@ This project demonstrates the integration of **sensor data acquisition, actuator
 
 ---
 
-## Hardware Components
+## 💡Hardware Components
 
 - Arduino Uno
 - Ultrasonic Distance Sensor (HC-SR04 or equivalent)
@@ -89,7 +89,7 @@ Red LED:
 
 ---
 
-## System Operation
+## 🚦System Operation
 
 1. The servo motor begins sweeping the ultrasonic sensor across a specified angular range.
 2. At each angle position:
@@ -106,6 +106,4 @@ Red LED:
 
 ---
 
-## Detection Logic
-
-Example detection condition:
+## 📷 Video
