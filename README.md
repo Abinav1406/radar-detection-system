@@ -39,6 +39,9 @@ This project demonstrates the integration of **sensor data acquisition, actuator
 
 ---
 
+## Circuit Diagram
+<img width="1321" height="663" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/882fe9f3-a0a9-41a9-acbf-053dd22d68da" />
+
 ## System Architecture
 
 The system consists of three main subsystems:
