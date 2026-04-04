@@ -101,6 +101,7 @@ Red LED:
    - The distance to the nearest object is calculated.
 3. If the detected distance is **below a predefined threshold**:
    - The red LED turns on
+   - The Radar is delayed
    - The buzzer is activated
 4. If the detected distance is **above the threshold**:
    - The green LED remains active
@@ -110,3 +111,10 @@ Red LED:
 ---
 
 ## 📷 Video
+
+
+
+
+https://github.com/user-attachments/assets/123b8b84-2493-4d2e-a5d2-849bc6b55950
+
+
