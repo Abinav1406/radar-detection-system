@@ -79,8 +79,8 @@ If no object is detected within the threshold distance:
 
 ### LEDs
 Green LED:
-- Anode → Digital pin via resistor
-- Cathode → GND
+- Cathode → Digital pin via resistor
+- Anode → GND
 
 Red LED:
 - Anode → Digital pin via resistor
