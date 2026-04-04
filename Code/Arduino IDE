@@ -41,7 +41,7 @@ void loop() {
 
   if (distance > 20 || distance == 0) {
     // No object detected
-    digitalWrite(GREEN_LED, HIGH);
+    digitalWrite(GREEN_LED, LOW);
     digitalWrite(RED_LED, LOW);
     digitalWrite(BUZZER, LOW);
 
@@ -56,7 +56,7 @@ void loop() {
     }
   } else {
     // Object detected
-    digitalWrite(GREEN_LED, LOW);
+    digitalWrite(GREEN_LED, HIGH);
     digitalWrite(RED_LED, HIGH);
     digitalWrite(BUZZER, HIGH);
 
