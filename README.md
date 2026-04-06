@@ -6,7 +6,7 @@ A basic radar detection system that utilises Arduino UNO, ultrasonic sensor, ser
 
 This project implements a **simple radar-style object detection system** using an Arduino Uno, an ultrasonic sensor, and a servo motor to scan the environment.
 
-The system continuously rotates the ultrasonic sensor across a defined angular range and measures the distance to nearby objects. When an object is detected within a predefined threshold distance, the system provides both **visual and auditory feedback** using LEDs and a buzzer.
+The system continuously rotates the ultrasonic sensor across a defined angular range and measures the distance to nearby objects. When an object is detected within a predefined threshold distance, the system provides both **visual and auditory feedback** using LEDs and a buzzer while delaying completion of rotation until the object is removed.
 
 This project demonstrates the integration of **sensor data acquisition, actuator control, and real-time feedback systems** in an embedded robotics platform.
 
