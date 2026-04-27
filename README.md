@@ -117,4 +117,18 @@ Red LED:
 
 https://github.com/user-attachments/assets/123b8b84-2493-4d2e-a5d2-849bc6b55950
 
+## Results / Learning Outcomes
+
+This Arduino Radar project successfully demonstrates the integration of hardware and software to create a basic object detection and visualization system. By combining an ultrasonic sensor, a servo motor, an Arduino microcontroller, and a Processing-based graphical interface, the system was able to scan the surrounding environment and display detected objects in real time. The radar continuously rotated through a defined angle range, measured distances accurately within the sensor’s operating limits, and transmitted data efficiently for visualization on a computer screen.
+
+Through this project, several important learning outcomes were achieved:
+
+* **Embedded Systems Integration:** Gained hands-on experience connecting sensors, actuators, and microcontrollers into a complete working system.
+* **Sensor Data Acquisition:** Learned how ultrasonic sensors measure distance using sound wave reflection and how to process timing signals into usable distance values.
+* **Servo Motor Control:** Developed skills in controlling angular movement using PWM signals and coordinating scanning motion.
+* **Serial Communication:** Understood how to send real-time sensor data from Arduino to external software for further processing.
+* **Programming Skills:** Improved proficiency in Arduino C/C++ coding, debugging, and structuring multi-component systems.
+* **Problem Solving:** Addressed practical challenges such as unstable readings, timing delays, synchronization between hardware and software, and sensor limitations.
+
+Overall, the project provided a strong foundation in robotics, automation, and real-time monitoring systems. It also demonstrated how low-cost components can be combined to simulate real-world radar scanning concepts used in security, navigation, and obstacle detection applications.
 
