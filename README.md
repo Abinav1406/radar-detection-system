@@ -40,7 +40,7 @@ This project demonstrates the integration of **sensor data acquisition, actuator
 ---
 
 ## Circuit Diagram
-<img width="821" height="633" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/882fe9f3-a0a9-41a9-acbf-053dd22d68da" />
+<img width="871" height="433" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/882fe9f3-a0a9-41a9-acbf-053dd22d68da" />
 
 ## System Architecture
 
